@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineer | 🌀 Neovim Enthusiast | 🎯 Detail-Oriented Developer<br><br>🛠 About Me:<br><br>    🔹 Focused on writing clean, efficient, and maintainable code.<br>    🔹 Leveraging Neovim as my primary development tool.<br>    🔹 Passionate about improving workflows and solving complex problems with elegant solutions.<br><br>🌟 Interests:<br><br>    🔹 Code optimization and task automation.<br>    🔹 Exploring new technologies and development methodologies.<br>    🔹 Developing systems that simplify complex workflows.<br><br>💡 Philosophy:<br>"Code should be as clear to humans as it is to machines."
+👨‍💻 IT Engineer | 🌀 Neovim Enthusiast | 🎯 Detail-Oriented<br><br>🛠 About Me:<br><br>    🔹 Focused on writing clean, efficient, and maintainable code.<br>    🔹 Leveraging Neovim as my primary development tool.<br>    🔹 Passionate about improving workflows and solving complex problems with elegant solutions.<br><br>🌟 Interests:<br><br>    🔹 Code optimization and task automation.<br>    🔹 Exploring new technologies and development methodologies.<br>    🔹 Developing systems that simplify complex workflows.<br><br>💡 Philosophy:<br><br> "Code should be as clear to humans as it is to machines."
 
 
 ## 🌐 Socials:
