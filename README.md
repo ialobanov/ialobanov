@@ -2,4 +2,4 @@
 
 I'm an IT Engineer at a tech company
 
-I have a few [projects](https://gitlab.com/ialobanov) with GitLab CI.
+I have a few [Ansible roles](https://gitlab.com/ialobanov) with GitLab CI.
