@@ -20,6 +20,7 @@ Technology:
 
 - Ansible
 - Docker/Compose
+- Ci (GitLab, GitHub)
 - Web servers (Apache, nginx, IIS)
 - Scripting languages (bash, PowerShell, lua)
 - Monitoring (Grafana, Prometheus)
