@@ -7,10 +7,13 @@ I have a few [Ansible roles](https://gitlab.com/ialobanov) with GitLab CI.
 ## Tech Stack
 
 **`Code editors`**:
+
 Neovim, VS Code.
 
 **`Load testing`**:
+
 K6 Grafana Labs, Yandex.Tank.
 
 **`Technology`**:
+
 Ansible, Docker/Compose, Ci (GitLab, GitHub), Web servers (Apache, nginx, IIS), Scripting languages (bash, PowerShell, lua), Monitoring (Grafana, Prometheus), Databases (PostgrSQL, MongoDB, Redis), Hypervisors (VMWare, Hyper-V, Proxmox), High load (HAProxy, Keepalived), PKI.
