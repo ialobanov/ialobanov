@@ -6,7 +6,7 @@ I have a few [Ansible roles](https://gitlab.com/ialobanov) with GitLab CI.
 
 ## Tech Stack
 
-**Code editors**:
+`Code editors`:
 
 Neovim, VS Code.
 
