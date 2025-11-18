@@ -10,7 +10,7 @@ Neovim, VS Code.
 
 `Load testing`:
 
-K6 Grafana Labs, Yandex.Tank.
+K6 Grafana Labs, Yandex-Tank.
 
 `Technology stack`:
 
