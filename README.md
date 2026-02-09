@@ -6,7 +6,7 @@ I'm an IT Engineer at a tech company, passionate about automation and infrastruc
 
 `Code editors`:
 
-Neovim, VS Code.
+Neovim, VS Code, Zed.
 
 `Load testing`:
 
