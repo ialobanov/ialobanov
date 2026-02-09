@@ -1,6 +1,6 @@
-# Welcome to my personal GitHub repository
+# Welcome to my personal github repository
 
-I'm an IT Engineer at a tech company, passionate about automation and infrastructure-as-code. I have a few [Ansible roles](https://gitlab.com/ialobanov) with GitLab CI.
+I'm an IT Engineer at a tech company, passionate about automation and infrastructure-as-code.
 
 ## Tech Stack
 
