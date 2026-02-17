@@ -1,5 +1,7 @@
 # Welcome to my personal github repository
 
+`- The universe is chaotic. Good prompts impose order. (c) chatgpt`
+
 I'm an IT Engineer at a tech company, passionate about automation and infrastructure-as-code.
 
 ## Tech Stack
