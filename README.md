@@ -6,7 +6,7 @@ I’m an IT engineer at a tech company, passionate about artificial intelligence
 
 ## Tech Stack
 
-`Code editors`:
+`Text editors`:
 Neovim, VS Code, Zed.
 
 `Load testing`:
