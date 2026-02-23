@@ -2,7 +2,7 @@
 
 `The universe is chaotic. Good prompts impose order. (c) chatgpt`
 
-I'm an IT Engineer at a tech company, passionate about AI and terminal and vim philosophy.
+I’m an IT engineer at a tech company, passionate about artificial intelligence, a terminal with vim. My work focuses on in-depth log analysis and understanding the core mechanics of applications to troubleshoot and resolve any issues that arise.
 
 ## Tech Stack
 
