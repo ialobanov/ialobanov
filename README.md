@@ -19,4 +19,7 @@ Ansible, Docker/Compose, Ci (GitLab, GitHub), Web servers (Apache, nginx, IIS), 
 
 [Resume](https://ialobanov.github.io/)
 
-*A regular podcast "Radio-T" listener since 2018*
+## Personal
+
+* A regular podcast "Radio-T" listener since 2018
+* Currently learning Japanese
