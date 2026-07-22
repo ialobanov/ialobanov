@@ -16,9 +16,7 @@ I am passionate about AI-assisted engineering workflows, security, and continuou
 
 ## Professional Profile
 
-My experience and technical skills are available on my personal website:
-
-➡️ https://ialobanov.github.io
+My experience and technical skills are available on my personal website: https://ialobanov.github.io
 
 ## Beyond Technology
 
