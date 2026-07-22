@@ -1,7 +1,28 @@
-# Welcome to my personal github repository
+# Hi, I'm Ivan Lobanov
 
-I’m an IT engineer at a tech company, passionate about artificial intelligence and vim philosophy, located in Russia, Velikiy Novgorod. I am a regular listener of [Radio-T](https://radio-t.com/) podcast since 2018 and currently learning Japanese. I try to catch the latest AI trends and use it in my daily workflow, but at the same momemt I am a security nerd and always think about new issues in this shpere provided by AI.
+DevOps/Infrastructure Engineer with 10+ years of experience in Linux administration, automation, virtualization, and enterprise infrastructure support.
 
-## Professional Experience
+My primary areas of interest include:
 
-My proffesional experience and skills are available on my github.io [personal page](https://ialobanov.github.io/).
+* Linux infrastructure (Ubuntu, Debian)
+* Infrastructure automation with Ansible
+* Docker and containerized environments
+* Proxmox VE virtualization
+* Database administration
+* Monitoring and observability (Prometheus, Grafana)
+* Performance testing and troubleshooting
+
+I am passionate about AI-assisted engineering workflows, security, and continuous learning. I also enjoy the Vim philosophy and regularly explore ways to improve productivity through automation and efficient tooling.
+
+## Professional Profile
+
+My experience and technical skills are available on my personal website:
+
+➡️ https://ialobanov.github.io
+
+## Beyond Technology
+
+* Regular Radio-T listener since 2018
+* Currently learning Japanese
+* Interested in AI, security, and knowledge management
+* Advocate of Vim and terminal-centric workflows
