@@ -1,25 +1,7 @@
 # Welcome to my personal github repository
 
-`The universe is chaotic. Good prompts impose order. (c) chatgpt`
-
-I’m an IT engineer at a tech company, passionate about artificial intelligence and vim philosophy. My work focuses on in-depth log analysis and understanding the core mechanics of applications to troubleshoot and resolve any issues that arise.
-
-## Tech Stack
-
-`Text editors`:
-Neovim, VS Code, Zed.
-
-`Load testing`:
-K6 Grafana Labs, Yandex-Tank.
-
-`Technology stack`:
-Ansible, Docker/Compose, Ci (GitLab, GitHub), Web servers (Apache, nginx, IIS), Scripting languages (bash, PowerShell, lua), Monitoring (Grafana, Prometheus), Databases (PostgrSQL, MongoDB, Redis), Hypervisors (VMWare, Hyper-V, Proxmox), High load (HAProxy, Keepalived), PKI.
+I’m an IT engineer at a tech company, passionate about artificial intelligence and vim philosophy, located in Russia, Velikiy Novgorod. I am a regular listener of [Radio-T](https://radio-t.com/) podcast since 2018 and currently learning Japanese. I try to catch the latest AI trends and use it in my daily workflow, but at the same momemt I am a security nerd and always think about new issues in this shpere provided by AI.
 
 ## Professional Experience
 
-[Resume](https://ialobanov.github.io/)
-
-## Personal
-
-* A regular podcast "Radio-T" listener since 2018
-* Currently learning Japanese
+My proffesional experience and skills are available on my github.io [personal page](https://ialobanov.github.io/).
